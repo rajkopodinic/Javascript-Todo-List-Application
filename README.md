@@ -1,2 +1,3 @@
 # Javascript-Todo-List-Application
-This is a javascript application for a todo list. You can add/remove todos and search for todos in the existing list.
+This is a javascript todo list application. You can add/remove todos and search for existing todos in the list. The UI is built using HTML, CSS and Bootstrap, the backend is all done using Javascript.
+
